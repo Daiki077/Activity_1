@@ -1,0 +1,106 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/d6/79/b4/d679b4887a2043c08497f6c18911370e.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    font-family: arial;
+}
+
+.main_div{
+    background-color: salmon;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    width: 1000px;
+    margin: auto;
+
+}
+.second_div{
+    width: 650px;
+    display: inline-block;
+    vertical-align: top;
+    height: 353px;
+}
+.color_img{
+    width: 300px;
+    margin-left: 25px;
+    display: inline-block;
+    font-size: 15px
+}
+.kalbo{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: right;
+    border: solid;
+    border-color: red;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.hobbies_div{
+    width: 250px;
+    background-color: brown;
+    display: inline-block;
+    margin-left: 15px;
+    vertical-align: top;
+    padding-left: 30px;
+    font-family: Arial;
+    margin-top: 50px;
+}
+.food_div{
+    width: 290px;
+    background-color: brown;
+    display: inline-block;
+    margin-left: 15px;
+    vertical-align: top;
+    padding-left: 30px;
+    font-family: Arial;
+    margin-top: 50px;
+
+}
+
+.about_me{
+    background-color: brown;
+    display: inline-block;
+    width: 290px;
+    margin-left: 15px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding-left: 1px;
+    height: 120px;
+    font-family: arial;
+    text-align: justify;
+}
+.name_line{
+    text-decoration: underline;
+}
+
+.follow_me{
+    background-color: brown;
+    text-decoration: underline;
+    display: inline-block;
+    width: 290px;
+    margin-left: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    vertical-align: top;
+    height: 120px;
+    text-align: center;
+    font-family: arial;
+    border-radius: 100px;
+}
+
+.fb_logo{
+    width: 50px;
+    background-color: brown;
+    border: solid;
+    border-color: brown;
+
+
+}
+.ig_logo{
+    width: 50px;
+}
